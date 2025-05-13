@@ -3,7 +3,7 @@
 
 🔭 **Currently Learning:** Cyber Security & Software Development | 📍 **Based in:** Agadir, Morocco. 
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmo1OXVuODgyNzh2dnQwNjIzOTgxMGRkcmw5eWlwMGRuaGlicnJyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="300" />
+<img src="./admiralgarp.gif" width="300" />
 
 ## 🌟 About Me  
 
