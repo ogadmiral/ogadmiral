@@ -31,7 +31,7 @@ I love building new things and contrubiution to open source projects.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogadmiral&show_icons=true&locale=en" alt="ADMIRΛL" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogadmiral&" alt="ADMIRΛL" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogadmiral" alt="ADMIRΛL" /></p>
 
 
 ## 🌱 I’m currently learning
