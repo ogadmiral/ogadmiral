@@ -3,8 +3,6 @@
 
 🔭 **Currently Learning:** Cyber Security & Software Development | 📍 **Based in:** Agadir, Morocco. 
 
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fsqm8wfq37z1b1.gif" width="300" />
-
 ## 🌟 About Me  
 
 Hi! I am Admiral, I am student and I love learning new things, currently I am focusing on learning Software Development & Cyber Security.
