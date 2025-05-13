@@ -3,17 +3,7 @@
 
 🔭 **Currently Learning:** Cyber Security & Software Development | 📍 **Based in:** Agadir, Morocco. 
 
-  ______   _______   __       __  ______  _______    ______   __       
- /      \ |       \ |  \     /  \|      \|       \  /      \ |  \      
-|  $$$$$$\| $$$$$$$\| $$\   /  $$ \$$$$$$| $$$$$$$\|  $$$$$$\| $$      
-| $$__| $$| $$  | $$| $$$\ /  $$$  | $$  | $$__| $$| $$__| $$| $$      
-| $$    $$| $$  | $$| $$$$\  $$$$  | $$  | $$    $$| $$    $$| $$      
-| $$$$$$$$| $$  | $$| $$\$$ $$ $$  | $$  | $$$$$$$\| $$$$$$$$| $$      
-| $$  | $$| $$__/ $$| $$ \$$$| $$ _| $$_ | $$  | $$| $$  | $$| $$_____ 
-| $$  | $$| $$    $$| $$  \$ | $$|   $$ \| $$  | $$| $$  | $$| $$     \
- \$$   \$$ \$$$$$$$  \$$      \$$ \$$$$$$ \$$   \$$ \$$   \$$ \$$$$$$$$
-
----
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmo1OXVuODgyNzh2dnQwNjIzOTgxMGRkcmw5eWlwMGRuaGlicnJyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="300" />
 
 ## 🌟 About Me  
 
