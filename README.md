@@ -1,8 +1,5 @@
-<script>
-    alert("Just wait for me! Once I learn, I’ll find vulnerabilities like a beast, In Shaa Allah!");
-</script>
 # Hi, I'm ADMIRAL 👋
-🚀 **Software Developer** | **Cyber Security Enthusiast** |🌍 **Low level programming, Bug bounty hunting & Full stack development.**  
+🚀 **Software Developer** | **Cyber Security Enthusiast** |🌍 **Low level programming, Full stack development & Bug bounty hunting.**  
 
 🔭 **Currently Learning:** Cyber Security & Software Development | 📍 **Based in:** Agadir, Morocco. 
 
