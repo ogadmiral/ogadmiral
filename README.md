@@ -36,7 +36,7 @@ I love building new things and contributing to open source projects.
 
 ## 🌱 I’m currently learning
 
-- **Software Development**: Diving deep into low level programming, Full stack deveopment, Algorithms, Data Structers & System Design.
+- **Software Development**: Diving deep into low level programming, Full stack deveopment, Algorithms, Data Structures & System Design.
 - **Cyber Security**: Learning finding, exploiting & reporting web apps vulnerabilities.
 
 ## 📂 Featured Projects  
