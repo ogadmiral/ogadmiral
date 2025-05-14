@@ -7,8 +7,8 @@
 
 ## 🌟 About Me  
 
-Hi! I am Admiral, I am student and I love learning new things, currently I am focusing on learning Software Development & Cyber Security.
-I love building new things and contrubiution to open source projects.
+Hi! I am Admiral. I am a student, and I love learning new things. Currently, I am focusing on Software Development and Cyber Security.
+I love building new things and contributing to open source projects.
 
 ---
 
