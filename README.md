@@ -20,7 +20,7 @@ I love building new things and contributing to open source projects.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/og_admiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="og_admiral" height="30" width="40" /></a>
-<a href="https://instagram.com/ogadmiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ogadmiral" height="30" width="40" /></a>
+<a href="https://instagram.com/og_admiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="og_admiral" height="30" width="40" /></a>
 <a href="https://discord.gg/DW8wwhr3Gy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DW8wwhr3Gy" height="30" width="40" /></a>
 </p>
 
