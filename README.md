@@ -1,7 +1,7 @@
 # Hi, I'm ADMIRAL 👋
 🚀 **Software Developer** | **Cyber Security Enthusiast** |🌍 **Low level programming, Full stack development & Bug bounty hunting.**  
 
-🔭 **Currently Learning:** Cyber Security & Software Development | 📍 **Based in:** Agadir, Morocco. 
+🔭 **Currently Learning:** Cyber Security & Software Development | 📍 **Based in:** Morocco. 
 
 <img src="./admiralgarp.gif"  width="450" />
 
