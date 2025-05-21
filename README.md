@@ -19,9 +19,9 @@ I love building new things and contributing to open source projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/og_admiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Admiral's X Account" height="30" width="40" /></a>
+<a href="https://x.com/og_admiral" target="blank"><img align="center" src="https://i.postimg.cc/7L3Pbx1k/x-logo-nice.png" alt="Admiral's X Account" height="37" width="37" /></a>
 <a href="https://instagram.com/og_admiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Admiral's Instagram account" height="30" width="40" /></a>
-<a href="https://discord.gg/DW8wwhr3Gy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Admiral's Discord Server" height="30" width="40" /></a>
+<a href="https://discord.gg/DW8wwhr3Gy" target="blank"><img align="center" src="https://i.postimg.cc/FRhrL2GJ/discordlogosize.png" alt="Admiral's Discord Server" height="30" width="40" /></a>
 <a href="mailto:theogadmiral@proton.me" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" align="center" height="30" width="40" alt="Admiral's business email." /></a>
 </p>
 
