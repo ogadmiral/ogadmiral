@@ -42,6 +42,8 @@ I love building new things and contributing to open source projects.
 
 ## 📂 Featured Projects  
 
+🌟 **[1337-Auto-Refresher](https://github.com/ogadmiral/1337-Auto-Refresher):** A Chrome Extenstion for 1337 Coding school to refresh checkin/pool page and scroll at the same time.
+
 🌟 **[Drum Kit Project](https://github.com/ogadmiral/Drum-Kit-Project):** Drum Kit website.  
 
 🌟 **[Simon Game Challenge](https://github.com/ogadmiral/Simon-Game-Challenge):** A Online Funny Game with JavaScript.  
