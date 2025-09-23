@@ -45,7 +45,7 @@ I love building things from scratch, breaking them (ethically 😄), and contrib
   <a href="https://x.com/og_admiral" target="_blank"><img src="https://i.postimg.cc/7L3Pbx1k/x-logo-nice.png" alt="Twitter/X" height="37" width="37" /></a>
   <a href="https://instagram.com/og_admiral" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://discord.gg/DW8wwhr3Gy" target="_blank"><img src="https://i.postimg.cc/FRhrL2GJ/discordlogosize.png" alt="Discord Server" height="30" width="40" /></a>
-  <a href="mailto:theogadmiral@proton.me" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Email" height="30" width="40" /></a>
+  <a href="mailto:og_admiral@wearehackerone.com" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
