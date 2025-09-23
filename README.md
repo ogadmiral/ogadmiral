@@ -35,7 +35,7 @@ I love building things from scratch, breaking them (ethically 😄), and contrib
 
 ## 📫 Reach Me At
 
-- **Email**: [theogadmiral@proton.me](mailto:theogadmiral@proton.me)
+- **Email**: [og_admiral@wearehackerone.com](mailto:og_admiral@wearehackerone.com)
 
 ---
 
