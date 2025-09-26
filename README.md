@@ -62,6 +62,7 @@ Some of the projects I’ve built as part of my learning journey:
 <a href="mailto:og_admiral@wearehackerone.com" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Email" height="30" width="30"/></a>
 <a href="https://www.linkedin.com/in/mustapha-dh/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="Linkedin" height="30" width="30"/></a>
 </p>
+
 ---
 
 ## ⚡ Fun Fact
