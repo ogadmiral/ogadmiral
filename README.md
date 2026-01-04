@@ -10,3 +10,4 @@ I’m a student at **1337 Coding School**, passionate about **software engineeri
 I enjoy **learning by building projects** and contributing to open-source.  
 
 > Currently on a journey to become a **Software Engineer**, learning to **design, build, deploy, and secure software systems**.  
+![Admiral's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ogadmiral&show_icons=true&theme=radical)
