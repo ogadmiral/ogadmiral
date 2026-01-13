@@ -13,4 +13,4 @@ I enjoy **learning by building projects** and contributing to open-source.
 ---
 
 ![Admiral's GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ogadmiral&theme=radical)
-![Admiral's GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ogadmiral&layout=compact&theme=radical)
+![Admiral's GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ogadmiral&layout=donut&theme=radical)
