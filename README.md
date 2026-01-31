@@ -1,10 +1,6 @@
 # 👋 Hi, I'm ADMIRAL  
 **Aspiring Software Engineer | Cybersecurity Enthusiast | 1337 Coding School Student**  
 
-[![mdamouh's 42 stats](https://badge.mediaplus.ma/greenbinary/mdamouh)](https://github.com/oakoudad/badge42)
-
----
-
 ## 🔹 About Me
 I’m a student at **1337 Coding School**, passionate about **software engineering, full stack development, and cybersecurity**.  
 I enjoy **learning by building projects** and contributing to open-source.  
