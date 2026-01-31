@@ -1,5 +1,6 @@
 # 👋 Hi, I'm ADMIRAL  
 **Aspiring Software Engineer | Cybersecurity Enthusiast | 1337 Coding School Student**  
+---
 
 ## 🔹 About Me
 I’m a student at **1337 Coding School**, passionate about **software engineering, full stack development, and cybersecurity**.  
