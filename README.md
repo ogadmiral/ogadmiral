@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ADMIRAL  
+# 👋 Hi, I'm Mustapha Damouh  
 **Aspiring Software Engineer | Cybersecurity Enthusiast | 1337 Coding School Student**  
 
 ---
