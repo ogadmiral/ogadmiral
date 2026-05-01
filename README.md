@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mustapha Damouh  
+# 👋 Hi, I'm Mustapha  
 **Aspiring Software Engineer | Cybersecurity Enthusiast | 1337 Coding School Student**  
 
 ---
